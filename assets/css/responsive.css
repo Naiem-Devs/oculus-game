@@ -1,0 +1,849 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .menu-area nav ul li a{
+    margin-left: 55px;
+}
+.hero_cont_wrp h1{
+    font-size: 123px;
+    margin-bottom: 100px;
+}
+.hero_cont_wrp.rds {
+    padding: 150px;
+    padding-right: 50px;
+    height: 1000px;
+}
+.g_slide_item{height: 500px;}
+
+.owl-item.active.center .g_slide_item{height: 600px;}
+.games-area{height: 920px;}
+
+footer{
+    max-width: 90%;
+}
+img.pd_hero{max-width: 700px;top: 46%;}
+.pd_sv{
+    margin: 99px 0 97px;
+}
+section.prod_item {
+    max-width: 95%;
+    height: 1715px;
+    border-radius: 100px;
+}
+
+.pis_blk .row:first-child {padding: 100px 80px;}
+
+.quest_price {
+    padding-left: 55px;
+}
+
+.prod_item .owl-nav {
+    top: 55%;
+}
+
+.Quest_btm ul {
+    max-width: 90%;
+}
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .menu-area nav ul li a{
+        margin-left: 30px;
+    }
+    .hero_cont_wrp h1{
+        font-size: 90px;
+        margin-bottom: 80px;
+    }
+    .hero_cont_wrp.rds {
+        padding: 128px;
+        padding-right: 50px;
+        height: 810px;
+    }
+    .games-area .owl-item.active.center{
+    }
+    .games-area .owl-item.active{
+    }
+
+    .hero_cont_btm p{
+    font-size: 24px;
+    max-width: 470px;
+}
+.bl_btn a:first-child{
+    font-size: 22px;
+    padding: 18px 47px;
+}
+.title{
+    font-size: 50px;
+}
+.ft_link h2{
+    text-align: left;
+}
+.owl-item.active.center .g_slide_item{height: 530px;}
+
+.g_slide_item {
+    height: 420px;
+}
+.games-area{
+    height: 810px;
+}
+footer{
+    max-width: 98%;
+    height: 700px;
+}
+.footer_wrp{
+    padding: 20px;
+}
+
+
+section.prod_item {
+    max-width: 95%;
+    height: 1548px;
+    border-radius: 100px;
+}
+
+.pis_blk .row:first-child {padding: 77px 30px;padding-right: 9px;}
+
+.quest_price {
+    padding-left: 12px;
+}
+
+.prod_item .owl-nav {
+    top: 60%;
+}
+
+.Quest_btm ul {
+    max-width: 95%;
+}
+img.pd_hero{
+    max-width: 555px;
+    right: 0;
+    top: 46%;
+}
+.pd_sv{
+    margin: 100px 0 100px;
+}
+.rating_slider_blk{
+    padding-left: 30px;
+    border-radius: 100px;
+    padding-bottom: 50px;
+}
+.Stones_right p {
+    font-size: 22px;
+    padding-right: 20px;
+}
+
+.Stones_left img {
+    height: 333px;
+    border-radius: 62px;
+}
+
+.Stones_left {
+    margin-top: 25px;
+}
+
+.Stones_right h3 {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.user-info {
+    padding-left: 18px;
+    padding-right: 30px;
+}
+
+.review ul {
+    margin-left: 80px;
+    max-width: 315px;
+}
+
+.user_img {
+    margin-left: -20px;
+}
+
+.game_poster_blk.active {
+    height: 642px;
+    border-radius: 70px;
+}
+
+.game_poster_blk {
+    height: 610px;
+}
+
+.game_poster_blk h2 {
+    font-size: 53px;
+}
+
+section.demo {
+    height: 650px;
+}
+.header-area {
+    margin: 40px 0 70px;
+}
+.f_left a {
+    font-size: 100px;
+}
+.f_left {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .hero_cont_btm p{
+    font-size: 22px;
+}
+    .bl_btn a:first-child{
+    font-size: 22px;
+    padding: 15px 30px;
+}
+    .title{
+    font-size: 50px;
+    margin: 100px auto 50px;
+}
+    .ft_link h2{
+    font-size: 26px;
+}
+    .menu-area nav ul li a{
+        margin-left: 30px;
+    }
+    .hero_cont_wrp h1{
+        font-size: 90px;
+        margin-bottom: 80px;
+    }
+    .hero_cont_wrp.rds {
+        padding: 102px;
+        padding-right: 50px;
+        height: 656px;
+        border-radius: 100px;
+        box-shadow: none;
+    }
+
+    .hero_cont_btm{
+    text-align: center;
+}
+.bl_btn a{
+    font-size: 22px;
+}
+.header-area{
+    margin: 30px 0 50px;
+}
+.games-area .owl-item.active.center{
+}
+.owl-item.active.center .g_slide_item{
+    height: 600px;
+}
+.g_slide_item{
+    height: 470px;
+    width: 95%;
+}
+.games-area .owl-item.active{
+}
+.g_slider_cont{}
+.g_slider_cont h2{
+    font-size: 58px;
+    letter-spacing: -1px;
+}
+.f_left{
+    margin-right: unset;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.f_left a{
+    font-size: 80px;
+}
+
+.f_left a img {
+    width: 145px;
+}
+.ft_link ul li a{
+    font-size: 20px;
+    line-height: 36px;
+}
+footer{
+    height: 700px;
+    border-radius: 95px;
+    max-width: 98%;
+    margin: 80px 10px 50px;
+}
+.games-area{
+    height: 830.1px;
+}
+
+
+
+
+
+section.prod_item {
+    max-width: 700px;
+    height: max-content;
+    border-radius: 100px;
+}
+
+.pis_blk .row:first-child {
+    padding: 75px;
+}
+
+.Quest_btm ul {
+    flex-wrap: wrap;
+    max-width: 100%;
+    width: 73%;
+}
+
+.quest_price {
+    padding-left: 84px;
+}
+
+.quest h2 {
+    text-align: center;
+}
+
+.pis_blk {
+    width: 100%;
+}
+
+.Quest_btm ul li {
+    margin-bottom: 30px;
+}
+
+img.pd_hero {
+    max-width: 387px;
+    right: 0;
+}
+
+.prod_hero_wrp h2 {
+    font-size: 30px;
+}
+
+.prod_hero_wrp h1 {
+    font-size: 40px;
+    max-width: 500px;
+}
+
+.pd_sv a {
+    width: 180px;
+}
+
+.pd_sv {
+    margin: 70px 0 100px;
+}
+
+.pd_btm_cont h3 {
+    font-size: 30px;
+}
+
+.pd_btm_cont {
+}
+
+.pd_btm_cont p {
+    font-size: 18px;
+    max-width: 358px;
+    width: 100%;
+}
+
+
+
+.rating_slider_blk{
+    padding-left: 0;
+    border-radius: 100px;
+    padding-bottom: 50px;
+    max-width: 600px;
+}
+.Stones_right p {
+    font-size: 22px;
+    padding-right: 20px;
+}
+
+.Stones_left img {
+    height: 333px;
+    border-radius: 62px;
+}
+
+.Stones_left {
+    margin-top: 25px;
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.Stones_right h3 {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.user-info {
+    padding-left: 18px;
+    padding-right: 30px;
+}
+
+.review ul {
+    margin-left: 80px;
+    max-width: 315px;
+}
+
+.user_img {
+    margin-left: -20px;
+}
+
+.game_poster_blk.active {
+    height: 642px;
+    border-radius: 70px;
+}
+
+.game_poster_blk {
+    height: 610px;
+}
+
+.game_poster_blk h2 {
+    font-size: 53px;
+}
+
+section.demo {
+    height: 650px;
+}
+.header-area {
+    margin: 40px 0 70px;
+}
+.f_left a {
+    font-size: 85px;
+    margin-top: -45px;
+}
+.f_left {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.rating_slider_blk .row:last-child{
+    padding-left: 45px;
+}
+.review{
+    margin-bottom: 45px;
+}
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .hero_cont_btm p{
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+        .bl_btn a:first-child{
+        font-size: 16px;
+        padding: 13px 25px;
+    }
+        .title{
+        font-size: 30px;
+        margin: 50px auto 25px;
+    }
+        .ft_link h2{
+        font-size: 24px;
+        width: unset;
+    }
+
+.ft_link h2.ab {
+    margin-left: 3px;
+    width: max-content;
+}
+
+.ft_link {
+    margin: auto;
+    margin-bottom: 25px;
+    width: max-content;
+}
+        .menu-area nav ul li a{
+            margin-left: 30px;
+        }
+        .hero_cont_wrp h1{
+            font-size: 33px;
+            margin-bottom: 37px;
+        }
+        .hero_cont_wrp.rds {
+            padding: 51px;
+            padding-right: 10px;
+            height: 480px;
+            border-radius: 40px;
+            box-shadow: none;
+            max-width: 500px;
+        }
+    
+        .hero_cont_btm{
+    max-width: 230px;
+    }
+
+.bl_btn {
+    margin-top: 30px;
+}
+    .bl_btn a{
+        font-size: 16px;
+        margin-left: 20px;
+    }
+    .header-area{
+        margin: 30px 0 30px;
+    }
+    .owl-item .g_slide_item{
+    height: 533px;
+    }
+    .owl-item.active.center .g_slide_item{
+        height: 520px;
+    }
+
+    .g_slider_cont h2{
+        font-size: 40px;
+        letter-spacing: -1px;
+    }
+    .f_left{
+        margin-right: unset;
+        margin: auto;
+        margin-bottom: 50px;
+    }
+    .f_left a{
+        font-size: 55px;
+    }
+    
+    .f_left a img {
+        width: 107px;
+    }
+    .ft_link ul li a{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    footer{
+        border-radius: 42px;
+        max-width: 500px;
+        margin: 100px auto 50px;
+        height: 700px;
+    }
+    .games-area{
+        height: 640.1px;
+    }
+    .game_slider.owl-carousel.owl-loaded.owl-drag {
+    }
+    .games-area .owl-item{transform: translate(0);}
+    .g_slider_cont p{
+    font-size: 20px;
+}
+.footer_wrp {
+    padding: 10px;
+} 
+
+section.prod_item {
+    max-width: 95%;
+    height: max-content;
+    border-radius: 49px;
+}
+
+.pis_blk .row:first-child {
+    padding: 49px 0 25px 0px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.Quest_btm ul {
+    flex-wrap: wrap;
+    max-width: 100%;
+    width: 100%;
+}
+
+.quest_price {
+    padding-left: 1px;
+}
+
+.quest h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.pis_blk {
+    margin: auto;
+}
+
+.Quest_btm ul li {
+    margin-bottom: 30px;
+}
+
+img.pd_hero {
+    /* max-width: 387px; */
+    position: unset;
+    width: 300px;
+    transform: unset;
+    display: block;
+    margin: 50px auto;
+}
+
+.prod_hero_wrp h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.prod_hero_wrp h1 {
+    font-size: 30px;
+    max-width: 368px;
+    line-height: 1;
+    margin: auto;
+}
+
+.pd_sv a {
+    width: 170px;
+}
+
+.pd_sv {
+    margin: 50px auto 40px;
+    max-width: 350px;
+}
+
+.pd_btm_cont h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.pd_btm_cont p {
+    font-size: 18px;
+    max-width: 350px;
+}
+.pd_btm {
+    flex-wrap: wrap;
+}
+
+.quest_info {
+    margin-left: 0;
+}
+
+.quest_info a i {
+    margin-right: 17px;
+}
+
+.quest_info_title h3 {
+    font-size: 20px;
+}
+
+.quest_info_title span {
+    font-size: 20px;
+}
+
+.quest_info_blk p {
+    font-size: 14px;
+    padding-left: 11px;
+}
+
+.quest_info_blk {
+    padding: 15px 14px 10px 14px;
+}
+
+.Storage a {
+    font-size: 20px;
+}
+
+a.BUY_now {
+    font-size: 20px;
+}
+
+.Quest_btm h2 {
+    font-size: 28px;
+}
+
+.Quest_btm ul li a {
+    font-size: 18px;
+}
+
+.Quest_btm {
+    margin-top: 88px;
+}
+
+.Quest_btm_img {
+    margin-top: -40px;
+}
+
+.prod_item .owl-nav img {
+    width: 15px;
+}
+
+.prod_item .owl-nav {
+    top: 70%;
+    width: 40%;
+}
+
+.pd_btm_cont {
+    margin-bottom: 30px;
+}
+
+.pd_sv a span {
+    font-size: 20px;
+}
+.prod_hero_wrp {margin: auto;max-width: 370px;}
+.bar a {
+    margin-right: 0;
+}
+
+.logo-area a {
+    font-size: 35px;
+}
+
+.logo-area a img {
+    width: 100px;
+}
+
+.rating_slider_blk {
+    padding: 15px;
+    border-radius: 50px;
+    max-width: 470px;
+}
+
+.Stones_left img {
+    border-radius: 50px;
+    height: 210px;
+}
+
+.Stones_left {}
+
+.Stones_right h3 {
+    font-size: 30px;
+    margin: 50px 0 20px;
+}
+
+.Stones_left a {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.Stones_right p {
+    font-size: 20px;
+}
+
+.rating_slider_blk .row:last-child {
+    margin-top: 40px;
+}
+
+.review ul {
+    margin-left: 35px;
+}
+
+.review ul li span {
+    height: 16px;
+}
+
+.review ul li {
+    margin-bottom: 14px;
+}
+
+.review p {
+    margin-bottom: 20px;
+}
+
+.review {
+    margin-bottom: 40px;
+}
+
+.user-info h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.user-info span {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.user-info p {
+    font-size: 15px;
+}
+
+.user-info a {
+    width: 152px;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.user-info {
+    padding-left: 16px;
+}
+.game_poster_blk h2 {
+    font-size: 25px;
+}
+.game_poster_blk.active {
+    height: 251px;
+    border-radius: 40px;
+}
+
+.game_poster_blk {
+    height: 210px;
+}
+
+section.demo {
+    height: 270px;
+    margin-top: 50px;
+}
+
+
+
+
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.games-area .owl-item.active.center{
+}
+.games-area{
+    max-width: 373px;
+    margin: auto;
+}
+.hero_cont_wrp.rds{
+    height: 370px;
+    padding-right: 30px;
+}
+.hero_cont_wrp h1{
+    font-size: 42px;
+}
+.hero_cont_btm p{
+}
+.games-area .owl-item {
+}
+section.prod_item{}
+.prod_item .owl-nav{
+    top: 68%;
+}
+.game_poster_blk.active {
+    height: 330px;
+}
+
+.game_poster_blk {
+    height: 300px;
+}
+
+section.demo {
+    height: 350px;
+}
+
+.Stones_left img {
+    height: 300px;
+}
+
+.rating_slider_blk {
+    padding: 25px;
+}
+
+section.rating .owl-nav {
+    position: absolute;
+    transform: translateX(-50%);
+    width: 200px;
+    margin-top: 22px;
+}
+
+section.rating .owl-nav img {
+    width: 15px;
+}
+
+section.rating {margin-bottom: 140px;}
+
+
+}
