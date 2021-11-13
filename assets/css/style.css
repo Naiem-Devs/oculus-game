@@ -744,7 +744,7 @@ section.rating .owl-nav img {
 }
 
 .review ul {
-    margin-left: 112px;
+    margin-left: 0;
 }
 
 .review ul li:nth-child(2) span:after {
@@ -765,6 +765,10 @@ section.rating .owl-nav img {
 
 .review ul li {
     margin-bottom: 20px;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    font-family: 'Libre Franklin';
 }
 
 .review ul li span {
@@ -776,6 +780,7 @@ section.rating .owl-nav img {
     overflow: hidden;
     max-width: 400px;
     position: relative;
+    margin-left: 20px;
 }
 
 .review ul li span:after {

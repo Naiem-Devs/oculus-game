@@ -154,10 +154,7 @@ img.pd_hero{
     padding-right: 30px;
 }
 
-.review ul {
-    margin-left: 80px;
-    max-width: 315px;
-}
+.review ul {}
 
 .user_img {
     margin-left: -20px;
@@ -189,6 +186,10 @@ section.demo {
     display: flex;
     align-items: center;
     height: 100%;
+}
+.review ul li span {
+    width: 300px;
+    height: 20px;
 }
 
 
@@ -383,10 +384,7 @@ img.pd_hero {
     padding-right: 30px;
 }
 
-.review ul {
-    margin-left: 80px;
-    max-width: 315px;
-}
+.review ul li span {height: 20px;width: 390px;}
 
 .user_img {
     margin-left: -20px;
@@ -723,19 +721,22 @@ a.BUY_now {
 }
 
 .review ul {
-    margin-left: 35px;
 }
 
 .review ul li span {
     height: 16px;
+    width: 73%;
+    margin-left: 10px;
 }
 
 .review ul li {
     margin-bottom: 14px;
+    font-size: 18px;
 }
 
 .review p {
     margin-bottom: 20px;
+    font-size: 24px;
 }
 
 .review {
@@ -844,6 +845,9 @@ section.rating .owl-nav img {
 }
 
 section.rating {margin-bottom: 140px;}
-
+.review ul li span{
+    margin-left: 20px;
+    width: 75%;
+}
 
 }
